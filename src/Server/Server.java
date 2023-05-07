@@ -23,5 +23,4 @@ public class Server extends EuclideanDistanceImp {
             throw new RuntimeException(e);
         }
     }
-
 }
