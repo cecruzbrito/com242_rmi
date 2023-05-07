@@ -1,1 +1,1 @@
-# com242_rmi
+# Comunicação Distriubida - RMI
